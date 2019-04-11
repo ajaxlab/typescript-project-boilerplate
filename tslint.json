@@ -27,6 +27,7 @@
     ],
     "no-bitwise": false,
     "no-console": [true, "log", "error"],
+    "object-literal-sort-keys": true,
     "only-arrow-functions": false,
     "ordered-imports": true,
     "quotemark": [true, "single", "avoid-escape"],
